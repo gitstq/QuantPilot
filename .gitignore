@@ -31,10 +31,8 @@ htmlcov/
 
 # Output files
 *.html
+!report.html
 *.json
-*.md
-!README.md
-
-# Data files
+!package.json
 *.csv
 data/
